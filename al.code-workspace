@@ -7,6 +7,9 @@
       "path": "Localization.Test"
     },
     {
+      "path": "Discharge.Test"
+    },
+    {
       "path": ".AL-Go"
     }
   ],
