@@ -1,4 +1,3 @@
-*.app
 *.flf
 *.bclicense
 *.g.xlf
@@ -11,7 +10,6 @@ rad.json
 .output/
 .dependencies/
 .buildartifacts/
-.alpackages/
 .packages/
 .alcache/
 .altemplates/
