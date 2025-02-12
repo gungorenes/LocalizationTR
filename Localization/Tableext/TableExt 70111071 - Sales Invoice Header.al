@@ -2,7 +2,7 @@ tableextension 90001 "PRG_Sales Invoice Header Disc." extends "Sales Invoice Hea
 {
     fields
     {
-        field(70111070; "PRG_Discharge Invoice"; Boolean)
+        field(90000; "PRG_Discharge Invoice"; Boolean)
         {
             Caption = 'Discharge Invoice';
             DataClassification = CustomerContent;
