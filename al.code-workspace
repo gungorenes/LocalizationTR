@@ -4,6 +4,9 @@
       "path": "Localization"
     },
     {
+      "path": "Localization.Test"
+    },
+    {
       "path": ".AL-Go"
     }
   ],
