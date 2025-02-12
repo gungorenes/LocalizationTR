@@ -10,7 +10,21 @@
   "help": "",
   "url": "",
   "logo": "",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "id": "2596f804-e24d-42c3-afaf-f96e4f4ef4a3",
+      "name": "Turkish Localization",
+      "publisher": "Parge Yazilim Danismanlik Tic.A.S.",
+      "version": "24.3.0.19"
+    },
+    {
+      "id": "15e883f5-6d65-488f-910e-3410dee79a6d",
+      "name": "E-Invoice/E-Archive",
+      "publisher": "Parge Yazilim Danismanlik Tic.A.S.",
+      "version": "25.5.0.41"
+    }
+    
+  ],
   "screenshots": [],
   "platform": "24.0.0.0",
   "application": "24.0.0.0",
